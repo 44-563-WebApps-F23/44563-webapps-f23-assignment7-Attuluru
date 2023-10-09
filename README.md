@@ -6,5 +6,6 @@ Hosted at [Pirate Game Page]( https://44-563-webapps-f23.github.io/44563-webapps
 
 Hosted at [react Game Page]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment7-Attuluru/react.html)
 
-Hosted at [merge page]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment7-Attuluru/merge.html)
+Hosted at [merge page]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment7-Attuluru/merger.html)
+
 
