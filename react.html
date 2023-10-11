@@ -40,7 +40,8 @@
         }
 
         function startTime() {
-            for (let i = 0; i < 9; i++) {
+
+            for (let i = 0; i < Math.floor(Math.random()*(10 - 2 + 1) + 2); i++) {
                 setTimeout(() => {
                     document.getElementById('counter').innerHTML = i;
                 }, ((8 - i) * 1000))
@@ -55,7 +56,7 @@
             else{
                 let endTime=Date.now();
                 diff=Math.abs(endTime-reactTime);
-                document.getElementById('target').innerHTML="Time was"+diff;
+                document.getElementById('target').innerHTML="Time was "+diff;
             }
     }
 
